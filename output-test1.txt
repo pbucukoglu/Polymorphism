@@ -1,0 +1,5 @@
+[Tanimlanmayan Silah] Saldiri Gucu: 3.0
+[Tanimlanmayan Kilic] Saldiri Gucu: 7.0
+[Gladius] Saldiri Gucu: 9.0
+[Spatha] Saldiri Gucu: 8.5
+[Pilum] Saldiri Gucu: 4.0

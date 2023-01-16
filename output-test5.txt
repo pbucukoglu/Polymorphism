@@ -1,0 +1,13 @@
+---Tur---
+[Savasci 1] Glider saldiriyor! Saldiri Gucu: 46.21875
+[Savasci 2] can kaybediyor! Kalan can: 53.78125
+[Savasci 2] Lightbane savruluyor! Saldiri Gucu: 29.25
+[Savasci 1] can kaybediyor! Kalan can: 70.75
+---Tur---
+[Savasci 1] Glider saldiriyor! Saldiri Gucu: 46.21875
+[Savasci 2] can kaybediyor! Kalan can: 7.5625
+[Savasci 2] Lightbane savruluyor! Saldiri Gucu: 29.25
+[Savasci 1] can kaybediyor! Kalan can: 41.5
+---Tur---
+[Savasci 1] Glider saldiriyor! Saldiri Gucu: 46.21875
+[Savasci 2] yenildi!

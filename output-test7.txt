@@ -1,0 +1,18 @@
+---Tur---
+[Savasci 5] Isimsiz Silah gorundu! Saldiri Gucu: 30.0
+[Savasci 6] can kaybediyor! Kalan can: 70.0
+[Savasci 6] Sir Egbert Quickblade cekildi! Saldiri Gucu: 21.875
+[Savasci 5] can kaybediyor! Kalan can: 78.125
+---Tur---
+[Savasci 5] Isimsiz Silah gorundu! Saldiri Gucu: 30.0
+[Savasci 6] can kaybediyor! Kalan can: 40.0
+[Savasci 6] Sir Egbert Quickblade cekildi! Saldiri Gucu: 21.875
+[Savasci 5] can kaybediyor! Kalan can: 56.25
+---Tur---
+[Savasci 5] Isimsiz Silah gorundu! Saldiri Gucu: 30.0
+[Savasci 6] can kaybediyor! Kalan can: 10.0
+[Savasci 6] Sir Egbert Quickblade cekildi! Saldiri Gucu: 21.875
+[Savasci 5] can kaybediyor! Kalan can: 34.375
+---Tur---
+[Savasci 5] Isimsiz Silah gorundu! Saldiri Gucu: 30.0
+[Savasci 6] yenildi!

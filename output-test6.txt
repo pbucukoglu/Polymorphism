@@ -1,0 +1,15 @@
+---Tur---
+[Savasci 3] Sting saplandi! Saldiri Gucu: 11.0
+[Savasci 4] can kaybediyor! Kalan can: 89.0
+[Savasci 4] Sir Egbert Quickblade cekildi! Saldiri Gucu: 43.75
+[Savasci 3] can kaybediyor! Kalan can: 56.25
+---Tur---
+[Savasci 3] Sting saplandi! Saldiri Gucu: 11.0
+[Savasci 4] can kaybediyor! Kalan can: 78.0
+[Savasci 4] Sir Egbert Quickblade cekildi! Saldiri Gucu: 43.75
+[Savasci 3] can kaybediyor! Kalan can: 12.5
+---Tur---
+[Savasci 3] Sting saplandi! Saldiri Gucu: 11.0
+[Savasci 4] can kaybediyor! Kalan can: 67.0
+[Savasci 4] Sir Egbert Quickblade cekildi! Saldiri Gucu: 43.75
+[Savasci 3] yenildi!

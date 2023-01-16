@@ -1,0 +1,20 @@
+Tanimlanmayan Silah:
+Isim: Isimsiz Silah
+Saldiri Gucu: 3.0
+---
+Tanimsiz Kilic:
+Isim: Sir Egbert Quickblade
+Saldiri Gucu: 7.0
+---
+Gladius:
+Isim: Lightbane
+Saldiri Gucu: 9.0
+---
+Spatha:
+Isim: Glider
+Saldiri Gucu: 8.5
+---
+Pilum:
+Isim: Sting
+Saldiri Gucu: 4.0
+---

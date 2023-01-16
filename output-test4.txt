@@ -1,0 +1,5 @@
+[Savasci 1] Kalan can: 100.0 Silah: [Spatha] Saldiri Gucu: 8.5
+[Savasci 2] Kalan can: 100.0 Silah: [Gladius] Saldiri Gucu: 9.0
+[Savasci 3] Kalan can: 100.0 Silah: [Pilum] Saldiri Gucu: 4.0
+[Savasci 4] Kalan can: 100.0 Silah: [Tanimlanmayan Kilic] Saldiri Gucu: 7.0
+[Savasci 5] Kalan can: 100.0 Silah: [Tanimlanmayan Silah] Saldiri Gucu: 3.0
